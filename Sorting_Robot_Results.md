@@ -1,32 +1,107 @@
-# CSC 225 — Sorting Robot Lottery: Results
+Seed: 32 | Algorithms: Bubble, Selection
+ Run Method        Comparisons
+   1 Bubble               4914
+   1 Selection            4950
+   2 Bubble               4914
+   2 Selection            4950
+   3 Bubble               4845
+   3 Selection            4950
+   4 Bubble               4797
+   4 Selection            4950
+   5 Bubble               4760
+   5 Selection            4950
+   6 Bubble               4895
+   6 Selection            4950
+   7 Bubble               4905
+   7 Selection            4950
+   8 Bubble               4905
+   8 Selection            4950
+   9 Bubble               4859
+   9 Selection            4950
+  10 Bubble               4940
+  10 Selection            4950
+  11 Bubble               4830
+  11 Selection            4950
+  12 Bubble               4922
+  12 Selection            4950
+  13 Bubble               4814
+  13 Selection            4950
+  14 Bubble               4905
+  14 Selection            4950
+  15 Bubble               4914
+  15 Selection            4950
+  16 Bubble               4740
+  16 Selection            4950
+  17 Bubble               4929
+  17 Selection            4950
+  18 Bubble               4914
+  18 Selection            4950
+  19 Bubble               4944
+  19 Selection            4950
+  20 Bubble               4922
+  20 Selection            4950
+  21 Bubble               4697
+  21 Selection            4950
+  22 Bubble               4884
+  22 Selection            4950
+  23 Bubble               4950
+  23 Selection            4950
+  24 Bubble               4872
+  24 Selection            4950
+  25 Bubble               4884
+  25 Selection            4950
+  26 Bubble               4697
+  26 Selection            4950
+  27 Bubble               4929
+  27 Selection            4950
+  28 Bubble               4935
+  28 Selection            4950
+  29 Bubble               4814
+  29 Selection            4950
+  30 Bubble               4845
+  30 Selection            4950
+  31 Bubble               4940
+  31 Selection            4950
+  32 Bubble               4944
+  32 Selection            4950
+  33 Bubble               4935
+  33 Selection            4950
+  34 Bubble               4814
+  34 Selection            4950
+  35 Bubble               4944
+  35 Selection            4950
+  36 Bubble               4940
+  36 Selection            4950
+  37 Bubble               4929
+  37 Selection            4950
+  38 Bubble               4872
+  38 Selection            4950
+  39 Bubble               4779
+  39 Selection            4950
+  40 Bubble               4845
+  40 Selection            4950
+  41 Bubble               4905
+  41 Selection            4950
+  42 Bubble               4845
+  42 Selection            4950
+  43 Bubble               4872
+  43 Selection            4950
+  44 Bubble               4872
+  44 Selection            4950
+  45 Bubble               4949
+  45 Selection            4950
+  46 Bubble               4895
+  46 Selection            4950
+  47 Bubble               4779
+  47 Selection            4950
+  48 Bubble               4859
+  48 Selection            4950
+  49 Bubble               4935
+  49 Selection            4950
+  50 Bubble               4944
+  50 Selection            4950
 
-**Random seed:** ________  
-**Algorithm 1:** ________  
-**Algorithm 2:** ________
-
-The driver generates **50 random lists of 100 integers each**. Both algorithms receive the same list for each run. Paste the 50 comparison counts from the program for each algorithm below (rather than filling in a 50-row table).
-
-**Algorithm 1 counts (50 runs):**
-
-```text
-
-```
-
-**Algorithm 2 counts (50 runs):**
-
-```text
-
-```
-
-| Statistic | Algorithm 1 | Algorithm 2 |
-|---|---:|---:|
-| Average | | |
-| Median | | |
-| Minimum | | |
-| Maximum | | |
-| Population standard deviation | | |
-
-**Which algorithm used fewer comparisons across the 50 runs?**
-
-
-**One interesting observation:**
+COMPARISON SUMMARIES
+Bubble: counts=[4914, 4914, 4845, 4797, 4760, 4895, 4905, 4905, 4859, 4940, 4830, 4922, 4814, 4905, 4914, 4740, 4929, 4914, 4944, 4922, 4697, 4884, 4950, 4872, 4884, 4697, 4929, 4935, 4814, 4845, 4940, 4944, 4935, 4814, 4944, 4940, 4929, 4872, 4779, 4845, 4905, 4845, 4872, 4872, 4949, 4895, 4779, 4859, 4935, 4944], average=4877.44, median=4900.0, std_dev=65.39179153380033, min=4697, max=4950
+Selection: counts=[4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950, 4950], average=4950.0, median=4950.0, std_dev=0.0, min=4950, max=4950
+Lukes-Macbook:Downloads lukerichards$ 
